@@ -1,0 +1,13 @@
+.primary{
+    color: cornflowerblue;
+    font-size: 300%;
+}
+
+.secondary{
+    color: coral;
+    
+}
+
+.shadow{
+    text-shadow: 2px 2px 3px black;
+}
